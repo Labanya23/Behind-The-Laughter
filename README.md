@@ -37,4 +37,7 @@
 ## Result
 The **ConvNeXt + BanglishBERT** achieved the best performance.
 ## Confusion Matrix
--![Confusion Matrix](Confusion Matrix.jpg)
+<p align="center">
+  <img src="Confusion Matrix.jpg" width="700">
+</p>
+
