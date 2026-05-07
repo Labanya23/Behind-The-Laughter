@@ -41,3 +41,5 @@ The **ConvNeXt + BanglishBERT** achieved the best performance.
   <img src="Confusion Matrix.jpg" width="700">
 </p>
 
+Dataset available on request here:
+https://forms.gle/FfseT1c6rijzE745A
