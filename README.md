@@ -3,4 +3,9 @@
 - **Accepted at:** ACL 2026 Workshop on Language Technology for Equality, Diversity and Inclusion (LT-EDI 2026)
 - **Give our paper a read:** [here](https://openreview.net/group?id=aclweb.org/ACL/2026/Workshop/LT-EDI/Authors&referrer=%5BHomepage%5D(%2F))
 - **Abstract** Bangla memes are widely used on social media to express humor and social commentary, yet computational analysis of gender bias in Bangla memes remains largely unexplored. In this work, we present a multimodal framework for detecting gender bias in Bangla memes by jointly analyzing textual and visual content. We construct a dataset of 6,846 Bangla and Banglish code-mixed memes annotated into three categories: male-biased, female-biased, and neutral. For textual representation, we use BanglishBERT, while visual features are extracted using ConvNeXt, and the two modalities are fused for final classification. Our best-performing model, ConvNeXt + BanglishBERT, achieves accuracy of 0.67 and an F1-score of 0.63, outperforming several multimodal baselines. The results demonstrate the effectiveness of multimodal learning for understanding culturally nuanced and code-mixed meme content in low-resource languages.
-
+### Label Distribution
+| Category | Samples |
+|---|---|
+| Male-biased | 1,935 |
+| Female-biased | 1,470 |
+| Neutral | 3,441 |
