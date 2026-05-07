@@ -24,3 +24,14 @@
 | Page → Male | 1134 | 16.56% |
 | Page → Female | 748 | 10.93% |
 | Page → Neutral Memes | 2655 | 38.78% |
+## Results
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|------|-----------:|-----------:|--------:|----------:|
+| ConvNeXt + Sentence-Transformer | 0.56 | 0.53 | 0.48 | 0.48 |
+| ResNet50 + Sentence-Transformer | 0.55 | 0.53 | 0.44 | 0.43 |
+| ResNet50 + BanglishBERT | 0.65 | 0.63 | 0.60 | 0.61 |
+| ViT + BanglishBERT | 0.66 | 0.65 | 0.60 | 0.61 |
+| ViT + Sentence-Transformer | 0.57 | 0.56 | 0.48 | 0.49 |
+| **ConvNeXt + BanglishBERT** | **0.67** | **0.66** | **0.61** | **0.63** |
+The **ConvNeXt + BanglishBERT** achieved the best performance.
