@@ -35,5 +35,4 @@
 | ViT + Sentence-Transformer | 0.57 | 0.56 | 0.48 | 0.49 |
 | **ConvNeXt + BanglishBERT** | **0.67** | **0.66** | **0.61** | **0.63** |
 The **ConvNeXt + BanglishBERT** achieved the best performance.
-- ## Confusion Matrix
-![Confusion Matrix](Confusion Matrix.jpg)
+-![Confusion Matrix](Confusion Matrix.jpg)
