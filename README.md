@@ -24,7 +24,7 @@
 | Page → Male | 1134 | 16.56% |
 | Page → Female | 748 | 10.93% |
 | Page → Neutral Memes | 2655 | 38.78% |
-## Results
+## Results Table
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |------|-----------:|-----------:|--------:|----------:|
@@ -34,5 +34,7 @@
 | ViT + BanglishBERT | 0.66 | 0.65 | 0.60 | 0.61 |
 | ViT + Sentence-Transformer | 0.57 | 0.56 | 0.48 | 0.49 |
 | **ConvNeXt + BanglishBERT** | **0.67** | **0.66** | **0.61** | **0.63** |
+## Result
 The **ConvNeXt + BanglishBERT** achieved the best performance.
+## Confusion Matrix
 -![Confusion Matrix](Confusion Matrix.jpg)
