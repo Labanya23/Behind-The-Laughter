@@ -1,3 +1,4 @@
+<img width="1200" height="230" alt="image" src="https://github.com/user-attachments/assets/21fd26b3-6f99-4cac-baf1-3943f0726974" />
 # Behind the Laughter:Uncovering Gender Bias in Code-Mixed Bangla Memes
 - **Authors:** Labanya Saha, Jannatul Ferdusi, Paria Chowdury, Jawad Hossain, Noor Mairukh Khan Arnob
 - **Accepted at:** ACL 2026 Workshop on Language Technology for Equality, Diversity and Inclusion (LT-EDI 2026)
