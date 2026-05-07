@@ -9,3 +9,16 @@
 | Male-biased | 1,935 |
 | Female-biased | 1,470 |
 | Neutral | 3,441 |
+## Distribution of Post Categories by Occurrence and Percentage
+
+| Post Category | Count | Percentage |
+|---------------|------:|-----------:|
+| Male → Male | 631 | 9.22% |
+| Male → Female | 347 | 5.07% |
+| Male → Neutral Memes | 504 | 7.36% |
+| Female → Male | 170 | 2.48% |
+| Female → Female | 376 | 5.49% |
+| Female → Neutral Memes | 281 | 4.10% |
+| Page → Male | 1134 | 16.56% |
+| Page → Female | 748 | 10.93% |
+| Page → Neutral Memes | 2655 | 38.78% |
